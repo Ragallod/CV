@@ -1,0 +1,18 @@
+body {
+    background: beige;
+   
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: blue;
+}
+
+#pasatiempo {
+    color: green;
+}
+
